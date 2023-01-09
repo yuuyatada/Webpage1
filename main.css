@@ -49,6 +49,28 @@ nav {
     height: 650px;
     background-image: url(img/mv.png);
 }
+.main-visual-content {
+  width: 50%; 
+  height: 50%; 
+  display: flex;
+  margin-top: 200px;
+  text-align: center;
+}
+.main-text{
+    color: #FAFAFA;
+    font-size:64px;
+     text-align: center;
+    
+}
+.subtext{
+    color: #FAFAFA;
+     margin-top: 10px;
+     font-size:20px;
+     text-align: center;
+}
+
+
+
 
 .main1 {
   width: 300px;
