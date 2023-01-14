@@ -71,8 +71,16 @@ nav {
 
 
 
-
+main{
+  width: 980px;
+  display: flex;
+  justify-content: center; 
+  margin: 0 auto; 
+  padding: 70px 0; 
+}
 .main1 {
   width: 300px;
   height: 300px;
+   justify-content: center;
+   margin: 90px auto; 
 }
